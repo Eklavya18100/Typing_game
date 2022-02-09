@@ -32,7 +32,7 @@ const words = [
   ];let time=10;
     let score=0;
     let difficulty='Easy';
-    text.focus();
+   
   let timeinterval =setInterval(updateTime,1000);
   function updateTime(){
       
